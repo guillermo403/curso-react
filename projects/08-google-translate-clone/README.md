@@ -1,0 +1,1 @@
+Clone the google translate, no traduce ya que la openIA que es la que quería usar es de pago
